@@ -33,7 +33,7 @@ This is a tutorial for learning how to use basic animations.
   <div style="text-align:center"><img src="https://github.com/iosClassForBeginner/tic_tac_toe_en/blob/master/videos/vid1.gif" /></div>
 
 #### 1, Collect photos → Drag & Drop your resources into your projects Assets.xcassets
-  <a href="https://github.com/iosClassForBeginner/VacationPlanner_en/blob/master/Resources">resources</a>
+  <a href="https://github.com/iosClassForBeginner/tic_tac_toe_en/tree/master/resources">resources</a>
   <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/tic_tac_toe_en/blob/master/videos/vid2.gif" /></div>
 
 #### 2, Design app
