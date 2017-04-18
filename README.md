@@ -85,6 +85,10 @@ This is a tutorial for learning how to use basic animations.
   ★  It's preferable to write following code yourself. It will help you to understand code more.
 
 ```Swift  
+//  Created by Sam on 2017-04-17.
+//  Copyright © 2017 Sam. All rights reserved.
+//
+
 import UIKit
 
 class ViewController: UIViewController {
@@ -92,14 +96,17 @@ class ViewController: UIViewController {
     @IBOutlet weak var winner: UILabel!
     @IBOutlet weak var playButton: UIButton!
     
+    var gameIsActive = true // A Boolean value to keep track when the game ends.
+    
     // Players by their number reference 
     // 0 is unplayed button
     // 1 is Cross
     // 2 is Noughts
     
     var activePlayer = 1 // We start with Cross || Challenge: Try starting with the winner i.e. store the value of the winner
-    var gameState = [0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ] // From left to right and top to bottom these numbers represent the status of each button
-    var gameIsActive = true
+    var gameState = [0 ,0 ,0 ,
+                     0 ,0 ,0 ,
+                     0 ,0 ,0 ] // From left to right and top to bottom these numbers represent the status of each button
     
     /*
         Tag representation of our button matrix
