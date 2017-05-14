@@ -3,7 +3,7 @@ This is a tutorial for learning how to use basic animations.
 
   <div style="text-align:center;width:500px;"><img src ="https://github.com/iosClassForBeginner/tic_tac_toe_en/blob/master/screen.PNG" /></div>
   
-  Thank you for visiting our account. We are going to learn about some basic animations by making a Vacation Planner app login page in an hour. If would you like to study yourself before hands-on, or review what you have learned in the session, please use the following material.
+  Thank you for visiting our account. We are going to learn about tags by making a Tick Tac Toe app in an hour. If would you like to study yourself before hands-on, or review what you have learned in the session, please use the following material.
 
 ## Meetup
   We are providing free hands-on on a monthly basis<br>
